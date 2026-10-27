@@ -1472,11 +1472,12 @@ Creatures you control with base power 2 or less get +1/+0.</text>
         <cmc>4</cmc>
         <type>Legendary Planeswalker - Sarkhan </type>
         <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
       <text>Whenever a Dragon dies under your opponent’s control, put a Loyalty counter on Sarkhan and its controller loses life equal to its power.
-−1: Each player makes a tapped 2/2 red Dragon creature token.
-−3: Reveal the top card of your library. If it’s a Dragon creature card, Sarkhan deals damage equal to its power to each creature and each other planeswalker.
+[-1]: Each player makes a tapped 2/2 red Dragon creature token.
+[-3]: Reveal the top card of your library. If it’s a Dragon creature card, Sarkhan deals damage equal to its power to each creature and each other planeswalker. Otherwise, exile it. You may play it until the end of your next end step.
 Otherwise, exile it. You may play it until the end of your next end step.</text>
     </card>
     <card>
@@ -2151,13 +2152,14 @@ When Ekimat, Hermit Marshal enters the battlefield, up to two target creatures y
         <colors>WUBRG</colors>
         <manacost>WUBRG</manacost>
         <cmc>5</cmc>
-        <type>Enchantment</type>
+        <type>Enchantment - Saga </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>I — Make a 4/4 red Dragon creature token with Flying.
+      <text>“Let there be Flight.”
+I — I — Make a 4/4 red Dragon creature token with Flying.
 II — Until end of turn, whenever you attack a player with one or more Dragons, draw a card.
-III— Make an emblem with Dragon spells you cast cost {1} less to cast</text>
+III — Make an emblem with “Dragon spells you cast cost {1} less to cast.”</text>
     </card>
     <card>
       <name>Gaius, Rising from the Earth</name>
@@ -2265,10 +2267,10 @@ Whenever Peych, Agricole attacks, if you control 8 or more lands, target creatur
     </card>
     <card>
       <name>Protect the Brood</name>
-      <set rarity="uncommon" num="179">URD</set>
+      <set rarity="uncommon" num="159">URD</set>
       <prop>
         <colors>WR</colors>
-        <manacost>RR/WW</manacost>
+        <manacost>1RW</manacost>
         <cmc>3</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
@@ -2279,8 +2281,8 @@ Whenever Peych, Agricole attacks, if you control 8 or more lands, target creatur
 * Target creature gets +1/+3 until end of turn.</text>
     </card>
     <card>
-      <name>Reanimate the Land (???)</name>
-      <set rarity="mythic" num="159">URD</set>
+      <name>Reanimate the Land</name>
+      <set rarity="mythic" num="160">URD</set>
       <prop>
         <colors>UBG</colors>
         <manacost>3BGU</manacost>
@@ -2293,7 +2295,7 @@ Whenever Peych, Agricole attacks, if you control 8 or more lands, target creatur
     </card>
     <card>
       <name>Recruit from the Vault</name>
-      <set rarity="mythic" num="160">URD</set>
+      <set rarity="mythic" num="161">URD</set>
       <prop>
         <colors>WBR</colors>
         <manacost>3RWB</manacost>
@@ -2306,7 +2308,7 @@ Whenever Peych, Agricole attacks, if you control 8 or more lands, target creatur
     </card>
     <card>
       <name>Refute Access</name>
-      <set rarity="uncommon" num="161">URD</set>
+      <set rarity="uncommon" num="162">URD</set>
       <prop>
         <colors>WU</colors>
         <manacost>WU</manacost>
@@ -2319,7 +2321,7 @@ Whenever Peych, Agricole attacks, if you control 8 or more lands, target creatur
     </card>
     <card>
       <name>Shymeon, Drake of the Lake</name>
-      <set rarity="mythic" num="162">URD</set>
+      <set rarity="mythic" num="163">URD</set>
       <prop>
         <colors>WUR</colors>
         <manacost>1URW</manacost>
@@ -2335,7 +2337,7 @@ Whenever a Dragon enters the battlefield under your control, put X +1/+1 counter
     </card>
     <card>
       <name>Soul Saver Abos-Nora</name>
-      <set rarity="rare" num="163">URD</set>
+      <set rarity="rare" num="164">URD</set>
       <prop>
         <colors>BG</colors>
         <manacost>3BG</manacost>
@@ -2350,7 +2352,7 @@ On each player’s upkeep, choose a creature card in that players graveyard. The
     </card>
     <card>
       <name>Spirit Jar</name>
-      <set rarity="uncommon" num="164">URD</set>
+      <set rarity="uncommon" num="165">URD</set>
       <prop>
         <colors>BG</colors>
         <manacost>BG</manacost>
@@ -2363,7 +2365,7 @@ On each player’s upkeep, choose a creature card in that players graveyard. The
     </card>
     <card>
       <name>Spirit Stealer Seira-Nora</name>
-      <set rarity="rare" num="165">URD</set>
+      <set rarity="rare" num="166">URD</set>
       <prop>
         <colors>BR</colors>
         <manacost>1BR</manacost>
@@ -2377,7 +2379,7 @@ On each player’s upkeep, choose a creature card in that players graveyard. The
     </card>
     <card>
       <name>Thaliax, Guide of the Woods</name>
-      <set rarity="mythic" num="166">URD</set>
+      <set rarity="mythic" num="167">URD</set>
       <prop>
         <colors>URG</colors>
         <manacost>4GUR</manacost>
@@ -2391,7 +2393,7 @@ On each player’s upkeep, choose a creature card in that players graveyard. The
     </card>
     <card>
       <name>Tree Tender</name>
-      <set rarity="uncommon" num="167">URD</set>
+      <set rarity="uncommon" num="168">URD</set>
       <prop>
         <colors>RG</colors>
         <manacost>RG</manacost>
@@ -2405,7 +2407,7 @@ On each player’s upkeep, choose a creature card in that players graveyard. The
     </card>
     <card>
       <name>{_ General}</name>
-      <set rarity="uncommon" num="168">URD</set>
+      <set rarity="uncommon" num="169">URD</set>
       <prop>
         <colors>WB</colors>
         <manacost>2WB</manacost>
@@ -2419,7 +2421,7 @@ On each player’s upkeep, choose a creature card in that players graveyard. The
     </card>
     <card>
       <name>{BorosUnc}</name>
-      <set rarity="uncommon" num="169">URD</set>
+      <set rarity="uncommon" num="170">URD</set>
       <prop>
         <colors>WR</colors>
         <manacost>3RW</manacost>
@@ -2434,7 +2436,7 @@ When {BorosUnc} enters, create a two 1/1 white Dragon creature token with Flying
     </card>
     <card>
       <name>{DimirUnc}</name>
-      <set rarity="uncommon" num="170">URD</set>
+      <set rarity="uncommon" num="171">URD</set>
       <prop>
         <colors>UB</colors>
         <manacost>UB</manacost>
@@ -2447,7 +2449,7 @@ When {BorosUnc} enters, create a two 1/1 white Dragon creature token with Flying
     </card>
     <card>
       <name>{DimirUSignpost}</name>
-      <set rarity="uncommon" num="171">URD</set>
+      <set rarity="uncommon" num="172">URD</set>
       <prop>
         <colors>UB</colors>
         <manacost>2UB</manacost>
@@ -2462,7 +2464,7 @@ Whenever you discard a card, target player mills three card.</text>
     </card>
     <card>
       <name>{GolgariUnc}</name>
-      <set rarity="uncommon" num="172">URD</set>
+      <set rarity="uncommon" num="173">URD</set>
       <prop>
         <colors>BG</colors>
         <manacost>3BG</manacost>
@@ -2478,7 +2480,7 @@ When {GolgariUnc} enters, surveil 2. (Look at the top two cards of your library,
     </card>
     <card>
       <name>{IzzetUSignpost}</name>
-      <set rarity="uncommon" num="173">URD</set>
+      <set rarity="uncommon" num="174">URD</set>
       <prop>
         <colors>UR</colors>
         <manacost>UR</manacost>
@@ -2493,7 +2495,7 @@ When {GolgariUnc} enters, surveil 2. (Look at the top two cards of your library,
     </card>
     <card>
       <name>{OrzhovUnc}</name>
-      <set rarity="uncommon" num="174">URD</set>
+      <set rarity="uncommon" num="175">URD</set>
       <prop>
         <colors>WB</colors>
         <manacost>WB</manacost>
@@ -2507,7 +2509,7 @@ When {GolgariUnc} enters, surveil 2. (Look at the top two cards of your library,
     </card>
     <card>
       <name>{RAbzanEnch}</name>
-      <set rarity="mythic" num="175">URD</set>
+      <set rarity="mythic" num="176">URD</set>
       <prop>
         <colors>WBG</colors>
         <manacost>WBG</manacost>
@@ -2521,7 +2523,7 @@ Creatures that enter or were cast from your graveyard enter with a Primacy count
     </card>
     <card>
       <name>{RakdosUnc}</name>
-      <set rarity="uncommon" num="176">URD</set>
+      <set rarity="uncommon" num="177">URD</set>
       <prop>
         <colors>BR</colors>
         <manacost>1BR</manacost>
@@ -2534,7 +2536,7 @@ Creatures that enter or were cast from your graveyard enter with a Primacy count
     </card>
     <card>
       <name>{SimicUnc}</name>
-      <set rarity="uncommon" num="177">URD</set>
+      <set rarity="uncommon" num="178">URD</set>
       <prop>
         <colors>UG</colors>
         <manacost>2GU</manacost>
@@ -2547,7 +2549,7 @@ Creatures that enter or were cast from your graveyard enter with a Primacy count
     </card>
     <card>
       <name>{SimicUSignpost}</name>
-      <set rarity="uncommon" num="178">URD</set>
+      <set rarity="uncommon" num="179">URD</set>
       <prop>
         <colors>UG</colors>
         <manacost>2GU</manacost>
