@@ -1,0 +1,3066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>URD</name>
+      <longname>Urden</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>{HerbieMystic}</name>
+      <set rarity="common" num="1">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When {HerbieMystic} enters, draw a card, then you may put a land card from your hand onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>{UncColorless}</name>
+      <set rarity="uncommon" num="2">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may discard a card. If you do, draw a card.
+Add two mana in any combination of colors.</text>
+    </card>
+    <card>
+      <name>Aerial Assault</name>
+      <set rarity="common" num="3">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target tapped creature. You gain 1 life for each creature you control with flying.</text>
+    </card>
+    <card>
+      <name>Ardent Guard</name>
+      <set rarity="uncommon" num="4">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, Indestructible
+When this creature blocks, it gets +0/+X, where X is the power of the creatures it is blocking.</text>
+    </card>
+    <card>
+      <name>Citadel Siege</name>
+      <set rarity="rare" num="5">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this enchantment enters, choose one —
+• At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.
+• At the beginning of combat on each opponent’s turn, tap target creature that player controls.</text>
+    </card>
+    <card>
+      <name>Dragon Hunter</name>
+      <set rarity="rare" num="6">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, Protection from Dragons (This creature can’t be blocked, targeted or dealt damage by Dragons.)
+Damage from this creature dealt to Dragons cannot be prevented.</text>
+    </card>
+    <card>
+      <name>Drop In</name>
+      <set rarity="uncommon" num="7">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return that card to the battlefield under its owner’s control with a Primacy counter on it. (Whenever That creature deals damage, put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>Eitha, Phirish General</name>
+      <set rarity="rare" num="8">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a Dragon you control attacks, put a +1/+1 counter on target Dragon creature you control other than that creature.</text>
+    </card>
+    <card>
+      <name>Emmara, Ravnica&apos;s Envoy</name>
+      <set rarity="rare" num="9">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elf Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+This creature enters with two +1/+1 counter on it.
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on this creature.
+When this creature dies, put it’s +1/+1 on target creature you control.</text>
+    </card>
+    <card>
+      <name>Familial Youngling</name>
+      <set rarity="common" num="10">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Familial Youngling enters, make a 1/1 white Dragon creature token.</text>
+    </card>
+    <card>
+      <name>Hold the Line</name>
+      <set rarity="rare" num="11">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Only cast this spells during the declare blockers phase.
+You may put target creature card from your onto the battlefield blocking target attacking creature. If that card has power 3 or less, it enters with two +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Keeper of Accords</name>
+      <set rarity="uncommon" num="12">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+If an opponent would search a library, that player searches the top six cards of that library instead.</text>
+    </card>
+    <card>
+      <name>Leader of the Guard</name>
+      <set rarity="mythic" num="13">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever an opponent casts a noncreature spell, create a 1/1 white Dragon creature token with flying and prowess.</text>
+    </card>
+    <card>
+      <name>Make Your Move</name>
+      <set rarity="common" num="14">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact, enchantment, or creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>Mother Drake</name>
+      <set rarity="rare" num="15">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon Noble </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Ward—Sacrifice a creature. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a creature.)
+Other creatures you control have Hexproof.</text>
+    </card>
+    <card>
+      <name>Opal Orb of Dragonkind</name>
+      <set rarity="common" num="16">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Orb </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {W}. If you spend this mana on a dragon spell, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Osseous Exhale</name>
+      <set rarity="common" num="17">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may behold a Dragon. (Choose a Dragon you control or reveal a Dragon card from your hand.)
+Osseous Exhale deals 5 damage to target attacking or blocking creature. If a Dragon was beheld, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Reprieve</name>
+      <set rarity="uncommon" num="18">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target spell to its owner’s hand. Draw a card.</text>
+    </card>
+    <card>
+      <name>Rule of Law</name>
+      <set rarity="uncommon" num="19">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player can’t cast more than one spell each turn.</text>
+    </card>
+    <card>
+      <name>Scaled Soulcage</name>
+      <set rarity="uncommon" num="20">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>*/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, exile another target nonland permanent until this creature leaves the battlefield. Its power is equal to the exiled card’s mana value.</text>
+    </card>
+    <card>
+      <name>Stasis Sage</name>
+      <set rarity="mythic" num="21">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+whenever one or more counters are placed on a permanent, you may pay {X}. If you do, put X less counters of your choice on that permanent</text>
+    </card>
+    <card>
+      <name>Taunting Bellow</name>
+      <set rarity="common" num="22">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control get indestructible until end of turn. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it’s still on the battlefield).</text>
+    </card>
+    <card>
+      <name>Twinhead Sentry</name>
+      <set rarity="common" num="23">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Twinhead Sentry can block an additional creature each combat.
+Whenever Twinhead Sentry blocks, it gets +0/+2 until end of turn for each creature it’s blocking.</text>
+    </card>
+    <card>
+      <name>Vanquish the Horde</name>
+      <set rarity="rare" num="24">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>6WW</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each creature on the battlefield.
+Destroy all creatures.</text>
+    </card>
+    <card>
+      <name>Wardscale Dragon</name>
+      <set rarity="uncommon" num="25">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+As long as this creature is attacking, defending player can’t cast spells.</text>
+    </card>
+    <card>
+      <name>{BlockingBlink}</name>
+      <set rarity="common" num="26">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return that card to the battlefield under its owner’s control. It has First strike until end of turn.</text>
+    </card>
+    <card>
+      <name>{IndesCombatTrick}</name>
+      <set rarity="uncommon" num="27">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target tapped creature you control gains indestructible until end of turn.
+Scry 1.</text>
+    </card>
+    <card>
+      <name>{WCBoros}</name>
+      <set rarity="common" num="28">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, put a +1/+1 counter on target creature you control with power 2 or less.</text>
+    </card>
+    <card>
+      <name>{WCommon}</name>
+      <set rarity="common" num="29">URD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each creature you attacked with this turn.
+When this creature enters, draw a card.</text>
+    </card>
+    <card>
+      <name>Brainsurge</name>
+      <set rarity="uncommon" num="30">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw four cards, then put two cards from your hand on top of your library in any order.</text>
+    </card>
+    <card>
+      <name>Codex of Dragonkind</name>
+      <set rarity="mythic" num="31">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Book </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{U}{U}, {T}: Draw two cards, then discard a card. If it’s a nonland card, it gains Mayhem until end of turn. The Mayhem cost equals it’s mana cost reduced by {U}{U}. Activate only as a sorcery. (the cost reduction can reduce generic costs)</text>
+    </card>
+    <card>
+      <name>Consider</name>
+      <set rarity="common" num="32">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1. (Look at the top card of your library. You may put it into your graveyard.) (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Dispelling Exhale</name>
+      <set rarity="common" num="33">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may behold a Dragon.  (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Counter target spell unless its controller pays {2}. If a Dragon was beheld, counter that spell unless its controller pays {4} instead.</text>
+    </card>
+    <card>
+      <name>Draconic Lore</name>
+      <set rarity="common" num="34">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if you control a Dragon.
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Dragon Nest</name>
+      <set rarity="common" num="35">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Egg Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Sacrifice Dragon Nest: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Activate only as a sorcery and only if you control a Dragon.</text>
+    </card>
+    <card>
+      <name>Dragon Turtle</name>
+      <set rarity="uncommon" num="36">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When this creature enters, tap it and up to one target creature an opponent controls. They don’t untap during their controllers’ next untap steps.</text>
+    </card>
+    <card>
+      <name>Dragonlord&apos;s Prerogative</name>
+      <set rarity="rare" num="37">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may reveal a Dragon card from your hand. If you revealed a Dragon card or controlled a Dragon as you cast this spell, this spell can’t be countered.
+Draw four cards.</text>
+    </card>
+    <card>
+      <name>Forced De-evolution</name>
+      <set rarity="uncommon" num="38">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature loses all abilities and is a colorless Drake with base power and toughness 1/1. (It loses all colors and all other creature types.)</text>
+    </card>
+    <card>
+      <name>Forced Reassesment</name>
+      <set rarity="mythic" num="39">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target noncreature or Dragon spell. Its controller looks at the top two cards of their library, puts one into their hand and the other on the bottom of their library.</text>
+    </card>
+    <card>
+      <name>Gale Reversal</name>
+      <set rarity="uncommon" num="40">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {2} less to cast if it targets a creature with flying.
+Return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Gulldrifter</name>
+      <set rarity="rare" num="41">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may reveal 2 dragons from your hand and pay {2}{U} instead of paying this spell’s mana cost.
+When Gulldrifter enters, draw two cards.</text>
+    </card>
+    <card>
+      <name>Ice Over</name>
+      <set rarity="common" num="42">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact or creature
+Enchanted permanent doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>Lapis Orb of Dragonkind</name>
+      <set rarity="common" num="43">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Orb </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {U}. When you spend this mana to cast a Dragon creature spell, scry 2.</text>
+    </card>
+    <card>
+      <name>Lmdln, Bookkeeper</name>
+      <set rarity="rare" num="44">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Homunculus Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you have more than Lmdln’s toughness in hand, put a -1/-1 counter on him, then discard cards equal to the difference.
+If you would draw a card, draw two cards instead.</text>
+    </card>
+    <card>
+      <name>Monastery Siege</name>
+      <set rarity="rare" num="45">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this enchantment enters, chooseone —
+• At the beginning of your draw step, draw an additional card, then discard a card. 
+• Spells your opponents cast that target you or a permanent you control cost {2} more to cast.</text>
+    </card>
+    <card>
+      <name>Negate</name>
+      <set rarity="common" num="46">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target noncreature spell.</text>
+    </card>
+    <card>
+      <name>Seaside Stalker</name>
+      <set rarity="uncommon" num="47">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature attacks or blocks, draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Smoke and Mirrors</name>
+      <set rarity="rare" num="48">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Play this card only after you declare blockers.
+Exile target blocking creature. Put it back onto the battlefield under your control blocking up to one target creature.</text>
+    </card>
+    <card>
+      <name>Swift Youngling</name>
+      <set rarity="common" num="49">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying</text>
+    </card>
+    <card>
+      <name>Thieving Torquemaw</name>
+      <set rarity="common" num="50">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Thieving Torquemaw enters the battlefield, look at the top two cards of target opponent’s library. Put one of those cards on the bottom of their library.</text>
+    </card>
+    <card>
+      <name>Traveling Translator</name>
+      <set rarity="uncommon" num="51">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, look at the top five cards of your library. You may reveal an instant, sorcery, or Dragon card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Twiddle</name>
+      <set rarity="common" num="52">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may tap or untap target artifact, creature, or land.</text>
+    </card>
+    <card>
+      <name>Voracious Bibliophile</name>
+      <set rarity="rare" num="53">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Whenever you cast a spell with one or more targets, draw that many cards.</text>
+    </card>
+    <card>
+      <name>{Baral, }</name>
+      <set rarity="rare" num="54">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Non-creature spells you cast cost {1} less to cast.
+Non-creature spells your opponents cast cost {1} more to cast.</text>
+    </card>
+    <card>
+      <name>{FullWallCounterspell}</name>
+      <set rarity="uncommon" num="55">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature spell.
+Until your next upkeep, you and permanents you control have Ward {1}. (Whenever this instant becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+    </card>
+    <card>
+      <name>{URemovalDragon}</name>
+      <set rarity="uncommon" num="56">URD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When {URemovalDragon} enters, counter target noncreature spell.</text>
+    </card>
+    <card>
+      <name>Bitter Triumph</name>
+      <set rarity="uncommon" num="57">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card or pay 3 life. 
+Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Bone Devourer</name>
+      <set rarity="rare" num="58">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+This creature enters with a number of +1/+1 counters on it equal to the number of creatures that died this turn.
+When this creature dies, you draw X cards and you lose X life, where X is the number of +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Call on the Passed</name>
+      <set rarity="uncommon" num="59">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Caustic Exhale</name>
+      <set rarity="common" num="60">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, behold a Dragon or pay 1. (Choose a Dragon or pay 1 you control or reveal a Dragon or pay 1 card from your hand.)
+Target creature gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Clip Wings</name>
+      <set rarity="common" num="61">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -2/-2 and loses flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Collector of Souls</name>
+      <set rarity="rare" num="62">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Menace
+Delerium — For each card type among cards in your graveyard, Collector of Souls enters with your choice of a +1/+1 counter, a Lifelink counter, a First strike counter, or a Haste counter.</text>
+    </card>
+    <card>
+      <name>Constrictor Drake</name>
+      <set rarity="uncommon" num="63">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Constrictor Drake enters, exile up to one target card from each graveyard.</text>
+    </card>
+    <card>
+      <name>Deadly Dispute</name>
+      <set rarity="common" num="64">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Grim Return</name>
+      <set rarity="rare" num="65">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Malevolent Witchkite</name>
+      <set rarity="rare" num="66">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, sacrifice any number of artifacts, enchantments, and/or tokens, then draw that many cards.</text>
+    </card>
+    <card>
+      <name>Onyx Orb of Dragonkind</name>
+      <set rarity="common" num="67">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Orb </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {B}. If you spend this mana on a dragon spell, each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Palace Siege</name>
+      <set rarity="rare" num="68">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this enchantment enters, chooseone —
+• At the beginning of your upkeep, return target creature card from your graveyard  to your hand.
+• At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Scavanging Youngling</name>
+      <set rarity="common" num="69">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature you control dies, target player loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>The Soul Vault</name>
+      <set rarity="mythic" num="70">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Exile target creature.
+At the beginning of your end step, Amass Spirits {X}, where X is the amount of creatures exiled with The Soul Vault. (To amass Spirits {X}, where X, put X +1/+1 counters on an Army you control. It’s also a Spirits {X}, where. If you don’t control an Army, create a 0/0 black Spirits {X}, where Army creature token first.)</text>
+    </card>
+    <card>
+      <name>Stingy Hoarder</name>
+      <set rarity="common" num="71">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Stingy Hoarder dies, create a Treasure Token.</text>
+    </card>
+    <card>
+      <name>Supernatural Stamina</name>
+      <set rarity="common" num="72">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”</text>
+    </card>
+    <card>
+      <name>Tinybones, Taking the Haul</name>
+      <set rarity="rare" num="73">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Skeleton Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature deals combat damage to a player, you may discard up to three cards. That player discards cards equal to the amount of cards discarded this way.</text>
+    </card>
+    <card>
+      <name>Zombify</name>
+      <set rarity="uncommon" num="74">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>{BCommonDraw}</name>
+      <set rarity="common" num="75">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard a card, then draw three cards. you lose 3 life.</text>
+    </card>
+    <card>
+      <name>{BCRakdos}</name>
+      <set rarity="common" num="76">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}, {T}, Sacrifice another creature: Draw a card</text>
+    </card>
+    <card>
+      <name>{BLegendDragon}</name>
+      <set rarity="rare" num="77">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{X}{X}{B}, Sacrifice another non-token creature: Make a token copy of the sacrificed creature, except it is a X/X Dragon Spririt in addition to its other types. X cannot be 0. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{BMythic2}</name>
+      <set rarity="mythic" num="78">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever an opponent discards their first card each turn, draw a card.</text>
+    </card>
+    <card>
+      <name>{BUnc1}</name>
+      <set rarity="uncommon" num="79">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon ... </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, create a Treasure token.
+{1}{B}, Sacrifice another creature or a Treasure: Draw a card.</text>
+    </card>
+    <card>
+      <name>{BUnc2}</name>
+      <set rarity="uncommon" num="80">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target opponent sacrifices a creature of their choice.
+• Each player discards a card. If you discarded a card this way, draw a card.</text>
+    </card>
+    <card>
+      <name>{BUnc3}</name>
+      <set rarity="uncommon" num="81">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return any number of creatures with total mana value 6 or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>{BUnc4}</name>
+      <set rarity="uncommon" num="82">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When {BUnc4} enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>{UnlikelyAidStandin}</name>
+      <set rarity="common" num="83">URD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+0 and gains haste and “When this creature dies, return it to the battlefield tapped under its owner’s control.” until end of turn.</text>
+    </card>
+    <card>
+      <name>Abrade</name>
+      <set rarity="common" num="84">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Akoum Hellkite</name>
+      <set rarity="rare" num="85">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Landfall — Whenever a land you control enters, Akoum Hellkite deals 1 damage to any target. If that land is a Mountain, Akoum Hellkite deals 2 damage instead.</text>
+    </card>
+    <card>
+      <name>Ashling, Flamestoker</name>
+      <set rarity="rare" num="86">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Elemental Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ashling or another creature with power 2 or less enters or leaves the battlefield under your control, Ashling kindles. (Discard a card, then draw a card. If you discarded a nonland card this way, that creature deals 1 damage to any target.)</text>
+    </card>
+    <card>
+      <name>Caldera Pyremaw</name>
+      <set rarity="rare" num="87">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. Then this creature deals damage equal to its power to target opponent.</text>
+    </card>
+    <card>
+      <name>Carnelian Orb of Dragonkind</name>
+      <set rarity="common" num="88">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Orb </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {R}. If that mana is spent on a Dragon creature spell, it gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Draconic Roar</name>
+      <set rarity="common" num="89">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may reveal a Dragon card from your hand.
+Draconic Roar deals 3 damage to target creature. If you revealed a Dragon card or controlled a Dragon as you cast this spell, Draconic Roar deals 3 damage to that creature’s controller.</text>
+    </card>
+    <card>
+      <name>Dragon Mage</name>
+      <set rarity="uncommon" num="90">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature deals combat damage to a player, each player discards their hand, then draws seven cards.</text>
+    </card>
+    <card>
+      <name>Firespitter Whelp</name>
+      <set rarity="uncommon" num="91">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a noncreature or Dragon spell, this creature deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Hungry Flames</name>
+      <set rarity="uncommon" num="92">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Hungry Flames deals 3 damage to target creature and 2 damage to target player or planeswalker.</text>
+    </card>
+    <card>
+      <name>Ignite the Soul Vault</name>
+      <set rarity="mythic" num="93">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, if a source you control would deal damage to a permanent or player, it deals triple that damage instead.
+At the beginning of your next end step, you lose the game.</text>
+    </card>
+    <card>
+      <name>Keen Researcher</name>
+      <set rarity="common" num="94">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+The second spell you cast each turn costs {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Lathliss, Queen in Exodus</name>
+      <set rarity="rare" num="95">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RRR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Menace
+Whenever a nontoken Dragon creature your control enters, Lathliss, Queen in Exodus deals damage equal to that creature’s power to target player.
+{R}: Target Dragon creature you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Molten Exhale</name>
+      <set rarity="common" num="96">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may cast this spell as though it had flash if you behold a Dragon as an additional cost to cast it. (Choose a Dragon as an additional cost to cast it you control or reveal a Dragon as an additional cost to cast it card from your hand.)
+Molten Exhale deals 4 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Outnumber</name>
+      <set rarity="uncommon" num="97">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Outnumber deals damage to target creature equal to the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Outpost Siege</name>
+      <set rarity="rare" num="98">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this enchantment enters, chooseone —
+• At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.
+• Whenever a creature you control leaves the battlefield, this enchantment deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Pillar of Flame</name>
+      <set rarity="common" num="99">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Pillar of Flame deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Raging Ruiner</name>
+      <set rarity="common" num="100">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Trample</text>
+    </card>
+    <card>
+      <name>Relentless Offence</name>
+      <set rarity="uncommon" num="101">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have haste.
+Creatures you control with base power 2 or less get +1/+0.</text>
+    </card>
+    <card>
+      <name>Rite of the Dragoncaller</name>
+      <set rarity="mythic" num="102">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, create a 5/5 red Dragon creature token with flying.</text>
+    </card>
+    <card>
+      <name>Sarkhan, Enraged</name>
+      <set rarity="mythic" num="103">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Sarkhan </type>
+        <maintype>Planeswalker</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a Dragon dies under your opponent’s control, put a Loyalty counter on Sarkhan and its controller loses life equal to its power.
+−1: Each player makes a tapped 2/2 red Dragon creature token.
+−3: Reveal the top card of your library. If it’s a Dragon creature card, Sarkhan deals damage equal to its power to each creature and each other planeswalker.
+Otherwise, exile it. You may play it until the end of your next end step.</text>
+    </card>
+    <card>
+      <name>Shock</name>
+      <set rarity="common" num="104">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shock deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Soulblast</name>
+      <set rarity="rare" num="105">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RRR</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice all creatures you control.
+Soulblast deals damage to any target equal to the total power of the sacrificed creatures.</text>
+    </card>
+    <card>
+      <name>Split the Skies</name>
+      <set rarity="uncommon" num="106">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Split the Skies deals 2 damage to each creature with flying.
+• Split the Skies deals 2 damage to each creature without flying.</text>
+    </card>
+    <card>
+      <name>Stoneturner Serpent</name>
+      <set rarity="common" num="107">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Twinferno</name>
+      <set rarity="uncommon" num="108">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+• Target creature you control gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>{RageCombatTrick}</name>
+      <set rarity="common" num="109">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+0 and gains haste until end of turn. When it dies, put a +1/+1 counter on target Dragon you control.</text>
+    </card>
+    <card>
+      <name>{RMCDragon}</name>
+      <set rarity="rare" num="110">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a noncreature spell and whenever a mountain enters under your control, {RMCDragon} deals 1 damage to target opponent.</text>
+    </card>
+    <card>
+      <name>{RRemovalDragon}</name>
+      <set rarity="uncommon" num="111">URD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When {RRemovalDragon} enters, destroy target Artifact.</text>
+    </card>
+    <card>
+      <name>Arborial Rejuvenation</name>
+      <set rarity="uncommon" num="112">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle. If you control a creature with power 4 or greater, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Bite Down</name>
+      <set rarity="common" num="113">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature or planeswalker you don’t control.</text>
+    </card>
+    <card>
+      <name>Blessed Respite</name>
+      <set rarity="uncommon" num="114">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player shuffles their graveyard into their library. Prevent all combat damage that would be dealt this turn.</text>
+    </card>
+    <card>
+      <name>Cultivate</name>
+      <set rarity="common" num="115">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Draconic Demolisher</name>
+      <set rarity="uncommon" num="116">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature dies, destroy target noncreature permanent.</text>
+    </card>
+    <card>
+      <name>Druid of the Claw</name>
+      <set rarity="common" num="117">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Ecological Appreciation</name>
+      <set rarity="mythic" num="118">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>X2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library and graveyard for up to four creature cards with different names that each have mana value X or less and reveal them. An opponent chooses two of those cards. Shuffle the chosen cards into your library and put the rest onto the battlefield. Exile Ecological Appreciation.</text>
+    </card>
+    <card>
+      <name>Epic Fight</name>
+      <set rarity="rare" num="119">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Double target creature’s power and toughness until end of turn.
+• Target creature you control fights target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Frontier Siege</name>
+      <set rarity="rare" num="120">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As this enchantment enters, chooseone —
+• At the beginning of each of your main phases, add {G}{G}.
+• Whenever a creature you control with flying enters, you may have it fight target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Hunt the Weak</name>
+      <set rarity="common" num="121">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Increasing Savagery</name>
+      <set rarity="rare" num="122">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put five +1/+1 counters on target creature. If this spell was cast from a graveyard, put ten +1/+1 counters on that creature instead.
+Flashback cost{5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Jade Orb of Dragonkind</name>
+      <set rarity="common" num="123">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Orb </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {G}. When you spend this mana to cast a Dragon creature spell, it enters with an additional +1/+1 counter on it and gains hexproof until your next turn. </text>
+    </card>
+    <card>
+      <name>Loot, Tiny Explorer</name>
+      <set rarity="rare" num="124">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Beast Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{G}, {T}: Look at the top card of your library. If it is a non-creature permanent that shares a subtype with a permanent you control, you may put it onto the battlefield. This ability costs {1} more for each subtype among non-creature permanents you control.</text>
+    </card>
+    <card>
+      <name>Piercing Exhale</name>
+      <set rarity="common" num="125">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may behold a Dragon. (Choose a Dragon you control or reveal a Dragon card from your hand.)
+Target creature you control deals damage equal to its power to target creature or planeswalker. If a Dragon was beheld, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Prey Upon</name>
+      <set rarity="common" num="126">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Principle of Nature</name>
+      <set rarity="uncommon" num="127">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with power 4 or greater have Primacy. (Whenever That creature deals damage, put a +1/+1 counter on it.)
+Whenever one or more creatures you control with three or more counters on it deals combat damage to a player, draw a card</text>
+    </card>
+    <card>
+      <name>Tolberry Tiller</name>
+      <set rarity="uncommon" num="128">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, you may search your library for a Dragon card with equal or lower power, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Triumph of Ferocity</name>
+      <set rarity="uncommon" num="129">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, draw a card if you control the creature with the greatest power or tied for the greatest power.</text>
+    </card>
+    <card>
+      <name>{GCDragon}</name>
+      <set rarity="common" num="130">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Haste</text>
+    </card>
+    <card>
+      <name>{GCGolgari}</name>
+      <set rarity="common" num="131">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When {GCGolgari} enters, another target creature you control gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>{GCSelesnya}</name>
+      <set rarity="common" num="132">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap two untapped creatures you control: This creature gets +2/+2 until end of turn. Activate only during your turn.</text>
+    </card>
+    <card>
+      <name>{GMCDragon}</name>
+      <set rarity="rare" num="133">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first Dragon spells you cast each turn costs {2} less to cast.</text>
+    </card>
+    <card>
+      <name>{GMythic1}</name>
+      <set rarity="mythic" num="134">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature is dealt damage, you may put target creature card with equal or lower mana value from your graveyard onto the battlefield under your control with a Finality counter on it. It is a Zombie in addition to its other types.</text>
+    </card>
+    <card>
+      <name>{GRemovalDragon}</name>
+      <set rarity="uncommon" num="135">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When {GRemovalDragon} enters, destroy target Enchantment.</text>
+    </card>
+    <card>
+      <name>{HandsDragon}</name>
+      <set rarity="uncommon" num="136">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+At the end of combat on your turn, if this creature hasn’t attacked, it fights a creature you control of target opponents choice.</text>
+    </card>
+    <card>
+      <name>{HandstoFlyingDragon}</name>
+      <set rarity="rare" num="137">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Dragon Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Primacy (Whenever This creature deals damage, put a +1/+1 counter on it.)
+{1}{G}: {HandstoFlyingDragon} fights target Creature with flying. Activate this ability only once per turn and only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{LandTutorRare}</name>
+      <set rarity="rare" num="138">URD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search you library for a land card, put it in your graveyard, then shuffle.
+Sacrifice all Lands you control, then return all Land cards in your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Aeph, the Broodleader</name>
+      <set rarity="rare" num="139">URD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your first Instant or Sorcery spell in a turn, create an X/X Dragon creature token with Flying, where X is the spells mana value.</text>
+    </card>
+    <card>
+      <name>Amané, Architect of Arcana</name>
+      <set rarity="rare" num="140">URD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, draw a card for each Dragon, Instant, and Sorcery you controlled that dealt non-combat damage to an opponent this turn.</text>
+    </card>
+    <card>
+      <name>Autem, the Hoarder</name>
+      <set rarity="rare" num="141">URD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dragon Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Autem, the Hoarder enters becomes tapped, for each player, put a Territory counter on target land that player controls.
+Players cannot attack you unless they pay {1} for each land they control with a Territory counter on it.</text>
+    </card>
+    <card>
+      <name>Besh, The Grandest</name>
+      <set rarity="rare" num="142">URD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, Primacy (Whenever This creature deals damage, put a +1/+1 counter on it.)
+Whenever you cast a spell that targets a creature you control, that creature gains Primacy until end of turn. (Whenever This creature deals damage, put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>Botanic Surveyor</name>
+      <set rarity="uncommon" num="143">URD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on this creature.
+{R/G}, Remove a +1/+1 counters from this creature: Exile the top card of your library. you may play it this turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Champion the People</name>
+      <set rarity="mythic" num="144">URD</set>
+      <prop>
+        <colors>WUG</colors>
+        <manacost>2GWU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Only one creature can attack at a time.
+Only one creature can block at a time.
+Attacking and blocking creatures get +X/+X, where X is the amount of creatures their owner controls.</text>
+    </card>
+    <card>
+      <name>Channeled Force</name>
+      <set rarity="uncommon" num="145">URD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard X cards.
+Target player draws X cards. Channeled Force deals X damage to up to one target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Consume the Countryside</name>
+      <set rarity="mythic" num="146">URD</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost>1RGW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Landfall — Move all +1/+1 counters on creatures you control to target creature.
+{1}, Sacrifice a land: Double the amount of +1/+1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>Desperate Captive</name>
+      <set rarity="uncommon" num="147">URD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, destroy target creature with less power.</text>
+    </card>
+    <card>
+      <name>Ekimat, Hermit Marshal</name>
+      <set rarity="rare" num="148">URD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>6WB</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+Flying, Menace
+When Ekimat, Hermit Marshal enters the battlefield, up to two target creatures you control can’t be blocked until end of turn. </text>
+    </card>
+    <card>
+      <name>Fight for Survival</name>
+      <set rarity="uncommon" num="149">URD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 and has Lifelink, Trample and Vigilance until end of turn. It fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Fionn, Ghost of the Moor</name>
+      <set rarity="mythic" num="150">URD</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a non-token creature, you may pay {2}. If you do, make a 1/1 token copy of it, except its a Spirit in addition to its other types.</text>
+    </card>
+    <card>
+      <name>The First Dragon</name>
+      <set rarity="mythic" num="151">URD</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost>WUBRG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>I — Make a 4/4 red Dragon creature token with Flying.
+II — Until end of turn, whenever you attack a player with one or more Dragons, draw a card.
+III— Make an emblem with Dragon spells you cast cost {1} less to cast</text>
+    </card>
+    <card>
+      <name>Gaius, Rising from the Earth</name>
+      <set rarity="mythic" num="152">URD</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>1BRG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, First strike
+You may cast any Dragon spells that entered any graveyard this turn as if they had Retrace, and mana of any type can be spent to cast those spells. (You may cast that card from a graveyard by discarding a land card in addition to paying its other costs.) (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
+    </card>
+    <card>
+      <name>Hoarde Auditor</name>
+      <set rarity="uncommon" num="153">URD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, Vigilance
+Whenever an opponent attacks you or a planeswalker you control with one or more creatures, they may pay {1}. If they don’t, you create a treasure token.</text>
+    </card>
+    <card>
+      <name>Joraka, Oracle of Rain</name>
+      <set rarity="mythic" num="154">URD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may cast this spell as though it has Flash if you spent {u} to cast it.
+Flying, Menace
+Whenever you cast a spell during an opponents turn, Joraka becomes prepared. (prepared spell: Stock Up) (While it’s prepared, you may cast a copy of its spell. Doing so unprepares it.)</text>
+    </card>
+    <card>
+      <name>Kho-tem, the Eroder</name>
+      <set rarity="rare" num="155">URD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dragon Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Kho-tem, the Eroder attacks, each player discards a card. If you discarded a nonland card this way, create a 1/1 black Dragon Spirit creature token with Flying.</text>
+    </card>
+    <card>
+      <name>Pe-Ané, Lands Sculptor</name>
+      <set rarity="rare" num="156">URD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Pe-Ané, Lands Sculptor enters, choose a permanent type. Whenever you tap a permanent of the chosen type to add mana, add an additional mana of that color.</text>
+    </card>
+    <card>
+      <name>Peych, Agricole</name>
+      <set rarity="rare" num="157">URD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3RG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Peych, Agricole attacks, if you control 8 or more lands, target creature gains Flying, Vigilance, Trample, and First strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Proof of Superiority</name>
+      <set rarity="uncommon" num="158">URD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets a Lifelink, a Double strike and a Primacy counter. It fights target creature an opponent controls. (Whenever That creature deals damage, put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>Protect the Brood</name>
+      <set rarity="uncommon" num="179">URD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RR/WW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two. You may choose the same mode more than once.
+* Target creature gets +2/+1 until end of turn. 
+* Target creature gets +1/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Reanimate the Land (???)</name>
+      <set rarity="mythic" num="159">URD</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>3BGU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a spell or ability allows you to target a creature or land card in your graveyard, you may target a creature card and a land card instead.</text>
+    </card>
+    <card>
+      <name>Recruit from the Vault</name>
+      <set rarity="mythic" num="160">URD</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>3RWB</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack, if a creature you controlled left the battlefield this turn, make two 2/2 white and red Spirit Dragon creature tokens with Flying. They enter tapped and attacking.</text>
+    </card>
+    <card>
+      <name>Refute Access</name>
+      <set rarity="uncommon" num="161">URD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent cast a creature spell, they may pay {1}. If they don’t, make a 0/4 Wall creature token with Defender named Barricade.</text>
+    </card>
+    <card>
+      <name>Shymeon, Drake of the Lake</name>
+      <set rarity="mythic" num="162">URD</set>
+      <prop>
+        <colors>WUR</colors>
+        <manacost>1URW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Lifelink
+Flurry — Whenever you cast your second spell each turn, Shymeon connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)
+Whenever a Dragon enters the battlefield under your control, put X +1/+1 counters on it, where X is Shymeons power.</text>
+    </card>
+    <card>
+      <name>Soul Saver Abos-Nora</name>
+      <set rarity="rare" num="163">URD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Dragon Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature enters from the graveyard or is cast from a graveyard, you may goad it for as long as you control Soul Saver Abos-Nora. Do this only once each turn. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+On each player’s upkeep, choose a creature card in that players graveyard. They may cast it.</text>
+    </card>
+    <card>
+      <name>Spirit Jar</name>
+      <set rarity="uncommon" num="164">URD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, {1}, sacrifice Spirit Jar: You may cast target creature card from your graveyard for {2} less. If you don’t, return it to your hand.</text>
+    </card>
+    <card>
+      <name>Spirit Stealer Seira-Nora</name>
+      <set rarity="rare" num="165">URD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have “{T}, sacrifice this creature: Target creature gains +X/+X until end of turn, where X is this creature’s power.”</text>
+    </card>
+    <card>
+      <name>Thaliax, Guide of the Woods</name>
+      <set rarity="mythic" num="166">URD</set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>4GUR</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>6/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Instant and Sorcery spells you cast cost {2} less to cast for each Land that entered under your control this turn.</text>
+    </card>
+    <card>
+      <name>Tree Tender</name>
+      <set rarity="uncommon" num="167">URD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land enters the battlefield under your control, deal 1 damage to target creature.</text>
+    </card>
+    <card>
+      <name>{_ General}</name>
+      <set rarity="uncommon" num="168">URD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When {_ General} enters, make two 1/1 Dragon Soldier creature tokens with Battle cry. (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)</text>
+    </card>
+    <card>
+      <name>{BorosUnc}</name>
+      <set rarity="uncommon" num="169">URD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When {BorosUnc} enters, create a two 1/1 white Dragon creature token with Flying.</text>
+    </card>
+    <card>
+      <name>{DimirUnc}</name>
+      <set rarity="uncommon" num="170">URD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery.</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard a card. Each opponent discards a card of the same type. for each opponent that can’t, draw a card.</text>
+    </card>
+    <card>
+      <name>{DimirUSignpost}</name>
+      <set rarity="uncommon" num="171">URD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you discard a card, target player mills three card.</text>
+    </card>
+    <card>
+      <name>{GolgariUnc}</name>
+      <set rarity="uncommon" num="172">URD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon ... </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When {GolgariUnc} enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{2}, Discard this card: mill three card, then put a land from your graveyard into hand.</text>
+    </card>
+    <card>
+      <name>{IzzetUSignpost}</name>
+      <set rarity="uncommon" num="173">URD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Orb </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast your second spell each turn, put a Knowledge counter on {IzzetUSignpost}.
+{T}: Add {C}.
+{T}, remove X Knowledge counter from {IzzetUSignpost}: Add X mana in any combination of {U} and/or {R}. Spend this mana only on colored mana cost.</text>
+    </card>
+    <card>
+      <name>{OrzhovUnc}</name>
+      <set rarity="uncommon" num="174">URD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}{W}{B}: Each creature you control gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>{RAbzanEnch}</name>
+      <set rarity="mythic" num="175">URD</set>
+      <prop>
+        <colors>WBG</colors>
+        <manacost>WBG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Spells and abilities you control that target cards in your graveyard cost {1} less to cast.
+Creatures that enter or were cast from your graveyard enter with a Primacy counter on them. (Whenever That creature deals damage, put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>{RakdosUnc}</name>
+      <set rarity="uncommon" num="176">URD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice a creature. Deal damage to all other creatures and planeswalkers equal to that creature’s power. If a creature an opponent control dies as a result of that damage, if it’s your main phase, exile it instead.</text>
+    </card>
+    <card>
+      <name>{SimicUnc}</name>
+      <set rarity="uncommon" num="177">URD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The first time each turn you would search your library for a basic land card, you may instead search your library for a non-basic land card. (Other requirements still apply)</text>
+    </card>
+    <card>
+      <name>{SimicUSignpost}</name>
+      <set rarity="uncommon" num="178">URD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever you cast a spell with mana value 5 or more, put a +1/+1 counter on {SimicUSignpost}.
+{T}: Add X {G} or {X} {U}, where X is {SimicUSignpost}’s power.</text>
+    </card>
+    <card>
+      <name>Read the Records</name>
+      <set rarity="common" num="180">URD</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3W/UW/U</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player scries {1}, then draws two cards. Tap target creature an opponent controls and put a stun counter on it.</text>
+    </card>
+    <card>
+      <name>Tome Thief</name>
+      <set rarity="common" num="181">URD</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Draw a card, then discard a card. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{GraveyardPayoffHybrid}</name>
+      <set rarity="common" num="182">URD</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2B/GB/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Barbarian </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with X +1/+1 counters on it, where X is the greatest power among creature cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>{HasteMagicStandin}</name>
+      <set rarity="common" num="183">URD</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1R/W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains flying until end of turn. Exile the top card of your library. You may play it until your next end step.</text>
+    </card>
+    <card>
+      <name>{LandfallAnarch}</name>
+      <set rarity="common" num="184">URD</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1R/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, Defender
+Landfall — If a land entered the battlefield under your control this turn, creature spells you cast that are red or green cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>{NimbleClawStandin}</name>
+      <set rarity="common" num="185">URD</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2G/UG/U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Untap two other target permanents. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>{OrzhovHybridCommon}</name>
+      <set rarity="common" num="186">URD</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>W/B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 until end of turn. Untap it.
+Whenever a creature you control attacks and isn’t blocked, you may pay {W/B}. If you do, return this card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>{PrimacyCombatTrick}</name>
+      <set rarity="common" num="187">URD</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1G/W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. It gains primacy and indestructible until end of turn. Untap it. (Whenever That creature deals damage, put a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>{SacPayoffHybrid}</name>
+      <set rarity="common" num="188">URD</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>B/RB/R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prowess
+Whenever a creature dies under your control, this creature gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>{SneakyIzzetDragon}</name>
+      <set rarity="common" num="189">URD</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>4U/RU/R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature has +1/+0 and can’t be blocked as long as you’ve cast a noncreature spell this turn.</text>
+    </card>
+    <card>
+      <name>Coveted Jewel</name>
+      <set rarity="rare" num="190">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, draw three cards.
+{T}: Add three mana of any one color. Whenever one or more creatures an opponent controls attack you and aren’t blocked, that player draws three cards and gains control of this artifact. Untap it.</text>
+    </card>
+    <card>
+      <name>Dragon&apos;s Hoard</name>
+      <set rarity="rare" num="191">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a Dragon you control enters, put a gold counter on this artifact.
+{T}, Remove a gold counter from this artifact: Draw a card.
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>The Ur-Claw</name>
+      <set rarity="mythic" num="192">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has +2/+0 and First strike.
+Whenever you cast a spell, if it shares a creature type with equiped creature, it costs {1} less.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>{RareColorless}</name>
+      <set rarity="rare" num="193">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vivid — Whenever you attack, give target creature you control +X/+0, where X is the number of colors among permanents you control.</text>
+    </card>
+    <card>
+      <name>Archive of Ages</name>
+      <set rarity="rare" num="194">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {U}
+{1}{W}{W}{U}, {T}: Put a Territory counter on target land. Until end of turn, creatures you control have Ward {X}, where X equal the amount of lands you control with a Territory counter on it. Activate only as a sorcery. (Whenever this land becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}.)</text>
+    </card>
+    <card>
+      <name>Bloodfell Caves</name>
+      <set rarity="common" num="195">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>Blossoming Sands</name>
+      <set rarity="common" num="196">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>Dismal Backwater</name>
+      <set rarity="common" num="197">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Feral Orchard</name>
+      <set rarity="rare" num="198">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {W}
+{G}{G}{W}, {T}: Put a +1/+1 counter on target creature you control with the highest power among creatures you control. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Jungle Hollow</name>
+      <set rarity="common" num="199">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Research Labs</name>
+      <set rarity="rare" num="200">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {U}
+{1}{U}{R}{R}, {T}: Exile the top two cards of your library, then put one of them into your hand. You may play the exiled card until your next end step.</text>
+    </card>
+    <card>
+      <name>Rugged Highlands</name>
+      <set rarity="common" num="201">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Scoured Barrens</name>
+      <set rarity="common" num="202">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>Swiftwater Cliffs</name>
+      <set rarity="common" num="203">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>Thornwood Falls</name>
+      <set rarity="common" num="204">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>Tranquil Cove</name>
+      <set rarity="common" num="205">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Wind-Scarred Crag</name>
+      <set rarity="common" num="206">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>{BorosRLand}</name>
+      <set rarity="rare" num="207">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {R}
+{1}{R}{W}{W}, {T}: Create two 1/1 White Dragon creature with flying tokens. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{DimirRLand}</name>
+      <set rarity="rare" num="208">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {B}
+{1}{U}{U}{B}, {T}: Until end of turn, target creature has “Whenever you would draw X cards, this creature connives X instead.” (To have a creature connive X, draw X cards, then discard X cards. Put a +1/+1 counter on that creature for each nonland card discarded this way.)</text>
+    </card>
+    <card>
+      <name>{GolgariRLand}</name>
+      <set rarity="rare" num="209">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {B}
+{B}{G}{G}, {T}: Mill three cards. You may put a land card from among them into your hand. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{GruulRLand}</name>
+      <set rarity="rare" num="210">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {G}
+{1}{R}{R}{G}, {T}: You may return target land you control to your hand. You may play an additional land this turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{OrzhovRLand}</name>
+      <set rarity="rare" num="211">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {W}
+{1}{W}{B}{B}, {T}: Each creature you control gets Vigilance until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{RakdosRLand}</name>
+      <set rarity="rare" num="212">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {R}
+{B}{B}{R}, {T}: Destroy target permanent you control. Add mana in any combination of {B} and/or {R} equal to it’s mana value. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>{SimicRLand}</name>
+      <set rarity="rare" num="213">URD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters tapped.
+{T}: Add {G}
+{1}{G}{U}{U}, {T}: Search your library for a Basic land card, and put it onto the battlefield tapped. Activate only as a sorcery.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
